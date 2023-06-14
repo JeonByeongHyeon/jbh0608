@@ -17,11 +17,13 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>ysj</title>
+<title>ysj++</title>
 </head>
 <body>
 <div class="container pt-3">
+요기를 건드려봐야징
 안녕하세요 양성준입니다. 
+네네네네
 </div>
 
 </body>
